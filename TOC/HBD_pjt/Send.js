@@ -1,4 +1,4 @@
-//정보를 입력받아서 로컬스토리지에 저장하는 js
+// 정보를 입력받아서 로컬스토리지에 저장하는 js
 
 function Input(){
   var name = document.getElementById("uname").value;
